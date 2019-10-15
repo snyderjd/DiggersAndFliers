@@ -48,6 +48,27 @@ namespace DiggersAndFliers
             swimmerBox1.SwimmingAnimals.Add(bettaFish1);
             swimmerBox1.SwimmingAnimals.Add(terrapin1);
 
+            // for each item in each box, execute the common method that belongs to each animal
+            foreach(IGroundable groundAnimal in groundBox1.GroundAnimals)
+            {
+                groundAnimal.MoveOnGround();
+            }
+
+            foreach(IDigable diggerAnimal in diggerBox1.DiggingAnimals)
+            {
+                diggerAnimal.Dig();
+            }
+
+            foreach(IFlyable flyerAnimal in flyerBox1.FlyingAnimals)
+            {
+                flyerAnimal.Fly();
+            }
+
+            foreach(ISwimable swimmingAnimal in swimmerBox1.SwimmingAnimals)
+            {
+                swimmingAnimal.Swim();
+            }
+
         }
     }
 }

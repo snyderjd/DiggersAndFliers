@@ -1,0 +1,11 @@
+/home/snyderjosephd/nss/workspace/csharp/exercises/Book1/DiggersAndFliers/bin/Debug/netcoreapp3.0/DiggersAndFliers
+/home/snyderjosephd/nss/workspace/csharp/exercises/Book1/DiggersAndFliers/bin/Debug/netcoreapp3.0/DiggersAndFliers.deps.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/Book1/DiggersAndFliers/bin/Debug/netcoreapp3.0/DiggersAndFliers.runtimeconfig.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/Book1/DiggersAndFliers/bin/Debug/netcoreapp3.0/DiggersAndFliers.runtimeconfig.dev.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/Book1/DiggersAndFliers/bin/Debug/netcoreapp3.0/DiggersAndFliers.dll
+/home/snyderjosephd/nss/workspace/csharp/exercises/Book1/DiggersAndFliers/bin/Debug/netcoreapp3.0/DiggersAndFliers.pdb
+/home/snyderjosephd/nss/workspace/csharp/exercises/Book1/DiggersAndFliers/obj/Debug/netcoreapp3.0/DiggersAndFliers.csprojAssemblyReference.cache
+/home/snyderjosephd/nss/workspace/csharp/exercises/Book1/DiggersAndFliers/obj/Debug/netcoreapp3.0/DiggersAndFliers.AssemblyInfoInputs.cache
+/home/snyderjosephd/nss/workspace/csharp/exercises/Book1/DiggersAndFliers/obj/Debug/netcoreapp3.0/DiggersAndFliers.AssemblyInfo.cs
+/home/snyderjosephd/nss/workspace/csharp/exercises/Book1/DiggersAndFliers/obj/Debug/netcoreapp3.0/DiggersAndFliers.dll
+/home/snyderjosephd/nss/workspace/csharp/exercises/Book1/DiggersAndFliers/obj/Debug/netcoreapp3.0/DiggersAndFliers.pdb
